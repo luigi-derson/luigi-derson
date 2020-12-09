@@ -4,46 +4,39 @@
   </a>
 </p
 
-<h2> Welcome 👋 , I'm Luigi Sanchez.</h2>
+## Welcome 👋 , I'm Luigi Sanchez
 
-I'm a software developer based in Buenos Aires AR, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm Front End Developer based in Manchester UK.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I enjoy building single page applicantions, websites and custom UI libraries.
 
-- 📱 &nbsp;Mobile:&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
-  ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
-- 🗄 &nbsp;Backend:&nbsp;
-  ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
-  ![Symfony](https://img.shields.io/badge/-Symfony-0A1A2F?style=flat&logo=symfony)
+### 🛠 &nbsp;Tech Stack
+
+- 🖥️ &nbsp;Backend:&nbsp;
+  ![Symfony](https://img.shields.io/badge/-ASP.NET-0A1A2F?style=flat&logo=.net&logoColor=5C2D91)
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-- 🌐 &nbsp;Frontend:&nbsp;
+- ⚛️ &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=styled-components&logoColor=fff)
+  ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=styled-components&logoColor=fff)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-  ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
-- 🛢 &nbsp;Database:&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![Redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
-  ![RethinkDB](https://img.shields.io/badge/-RethinkDB-0A1A2F?style=flat&logo=rethinkdb)
+  ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-0A1A2F?style=flat&logo=gatsby&logoColor=blueviolet)
+- 💾 &nbsp;Database:&nbsp;
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-0A1A2F?style=flat&logo=microsoft-sql-server)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-- ⚙️ &nbsp;VCS: &nbsp;
+- 🐱 &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Gitlab](https://img.shields.io/badge/-Gitlab-0A1A2F?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
-- 🔧 &nbsp;IDE's:&nbsp;
+- 👨‍💻 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-0A1A2F?style=flat&logo=android-studio)
-  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
-- 🖥 &nbsp;Design:&nbsp;
+  ![Visual Studio](https://img.shields.io/badge/-AVisual%20Studio-0A1A2F?style=flat&logo=visual-studio&logoColor=blueviolet)
+  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=green)
+- ✏️ &nbsp;Design:&nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-0A1A2F?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobe-photoshop)
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br/>
