@@ -44,3 +44,6 @@ Especialized in building single page applications, websites and custom UI librar
 <a href="https://github.com/luigi-derson">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigi-derson&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
 </a>
+<br />
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=luigi-derson alt=luigi-derson/> </p>
