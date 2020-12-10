@@ -1,12 +1,12 @@
-<p align="center">
+<p align="center" style="margin-bottom: 2rem;">
   <a href="https://luigiderson.dev" target="_blank">
-    <img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
+    <img style="border-radius: 50%;box-shadow: 0px 10px 25px 5px rgba(0,0,0,0.2);" width="40em" height="40em" src="https://www.luigiderson.dev/wp-content/uploads/2020/12/luigi-derson_white-bg_300x300.svg">
   </a>
 </p
 
 ## Welcome 👋 , I'm Luigi Sanchez
 
-I'm Front End Developer based in Manchester UK.
+I'm **Front End Developer** based in Manchester UK.
 
 I enjoy building single page applicantions, websites and custom UI libraries.
 
