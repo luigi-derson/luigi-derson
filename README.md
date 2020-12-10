@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://luigiderson.dev" target="_blank">
-    <img width="50em" height="50em" src="https://www.luigiderson.dev/wp-content/uploads/2020/12/luigi-derson_white-bg-circle-border_300x300.svg">
+    <img width="50em" height="50em" src="https://www.luigiderson.dev/wp-content/uploads/2020/12/luigi-derson-github-logo.svg">
   </a>
 </p
 
 ## Welcome 👋 , I'm Luigi Sanchez
 
-I'm **Front End Developer** based in Manchester UK.
-
-I enjoy building single page applicantions, websites and custom UI libraries.
+Especialized in building single page applications, websites and custom UI libraries.
 
 ### 🛠 &nbsp;Tech Stack
 
