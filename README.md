@@ -1,6 +1,6 @@
-<p align="center" style="margin-bottom: 2rem;">
+<p align="center">
   <a href="https://luigiderson.dev" target="_blank">
-    <img style="border-radius: 50%;box-shadow: 0px 10px 25px 5px rgba(0,0,0,0.2);" width="40em" height="40em" src="https://www.luigiderson.dev/wp-content/uploads/2020/12/luigi-derson_white-bg_300x300.svg">
+    <img width="40em" height="40em" src="https://www.luigiderson.dev/wp-content/uploads/2020/12/luigi-derson_white-bg_300x300.svg">
   </a>
 </p
 
