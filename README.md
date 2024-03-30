@@ -1,6 +1,6 @@
 ### Welcome 👋 , I'm Luigi Sanchez
 
-Especialized in building single page applications, websites and custom UI libraries.
+Specialised in building single-page applications, e-commerce websites and CRMs using React with Typescript.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -16,10 +16,9 @@ Especialized in building single page applications, websites and custom UI librar
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
 - 🧪 &nbsp;Testing:&nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=jest)
-- 🐱 &nbsp;VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+  ![Vitest](https://img.shields.io/badge/-Vitest-0A1A2F?style=flat&logo=vitest)
+  ![Cypress](https://img.shields.io/badge/-Cypress-0A1A2F?style=flat&logo=cypress)
+  ![RTL](https://img.shields.io/badge/-RTL-0A1A2F?style=flat&logo=testinglibrary)
 - 👨‍💻 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=green)
