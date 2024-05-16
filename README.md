@@ -1,8 +1,17 @@
-### Welcome 👋 , I'm Luigi Sanchez
+### Welcome to my personal space 👋
+#### I'm Luigi Sanchez
 
-Specialised in building single-page applications, e-commerce websites and CRMs using React with Typescript.
+With over five years of professional experience, I'm a experienced **software engineer** who has transitioned from a **graphic design** background to a dynamic career in software development. This journey has provided me with a distinctive blend of creative and technical skills, allowing me to craft visually stunning and highly functional applications.
 
-### 🛠 &nbsp;Tech Stack
+My primary expertise lies in developing **single-page applications**, **e-commerce** websites, and **CRMs** using React with TypeScript. Whilst my main focus is on front-end development, I'm also proficient with back-end technologies such as Node.js and Python, which gives me a comprehensive understanding of full-stack development.
+
+Alongside my full-time roles, I've worked on various **freelance projects**, demonstrating my versatility and dedication to delivering high-quality solutions. I'm passionate about staying up-to-date with the latest coding standards and technologies, continuously refining my skills to remain at the cutting edge of the industry.
+
+Outside of coding, I've a keen interest in finance and the stock market, and I enjoy travelling, immersing myself in new cultures and perspectives.
+
+Checkout my [portfolio](https://portfolio-1f4.pages.dev) to see some of my work.
+
+### Tech Stack
 
 - 🖥️ &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
@@ -22,12 +31,3 @@ Specialised in building single-page applications, e-commerce websites and CRMs u
 - 👨‍💻 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=green)
-
-<br/>
-
-<a href="https://github.com/luigi-derson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigi-derson&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a>
-<br />
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=luigi-derson alt=luigi-derson/> </p>
