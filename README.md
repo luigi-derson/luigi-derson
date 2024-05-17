@@ -5,9 +5,7 @@ With over five years of professional experience, I'm a experienced **software en
 
 My primary expertise lies in developing **single-page applications**, **e-commerce** websites, and **CRMs** using React with TypeScript. Whilst my main focus is on front-end development, I'm also proficient with back-end technologies such as Node.js and Python, which gives me a comprehensive understanding of full-stack development.
 
-Alongside my full-time roles, I've worked on various **freelance projects**, demonstrating my versatility and dedication to delivering high-quality solutions. I'm passionate about staying up-to-date with the latest coding standards and technologies, continuously refining my skills to remain at the cutting edge of the industry.
-
-Outside of coding, I've a keen interest in finance and the stock market, and I enjoy travelling, immersing myself in new cultures and perspectives.
+Outside of coding, I've a keen interest in personal finances, and I enjoy travelling, immersing myself in new cultures and perspectives.
 
 Checkout my [portfolio](https://portfolio-1f4.pages.dev) to see some of my work.
 
