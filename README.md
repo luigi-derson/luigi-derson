@@ -7,7 +7,7 @@ My primary expertise lies in developing **single-page applications**, **e-commer
 
 Outside of coding, I've a keen interest in personal finances, and I enjoy travelling, immersing myself in new cultures and perspectives.
 
-Checkout my [portfolio](https://portfolio-1f4.pages.dev) to see some of my work.
+Check out my [portfolio](https://portfolio-1f4.pages.dev) to see some of my work.
 
 ### Tech Stack
 
